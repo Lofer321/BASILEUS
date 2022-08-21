@@ -1,7 +1,7 @@
 # Overview of BASILEUS
 A feature-rich Discord bot made for database management of Discord role-play servers (primarily, but not limited to, the SCP Fandom). At time of writing implements a task assignment systems, database updating and querying, fuzzy searching, NLP-based web scraping, and a permission system.
 
-![Example usage](![image](https://user-images.githubusercontent.com/46630931/185795087-545b735e-1544-471c-9d27-30fa83ccc599.png)) 
+![Example usage](https://user-images.githubusercontent.com/46630931/185795129-ed91e992-a74a-4f91-abae-105b9613d3ea.png)
 
 # Features
 All commands are ran with the prefix set in `config.ini`. Command parameters are labeled with `<>`.
